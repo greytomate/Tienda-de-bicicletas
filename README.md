@@ -12,3 +12,6 @@ Este proyecto consiste en la creación de un **dashboard interactivo en Power BI
 - Power BI  
 - Power Query  
 - Modelado básico de datos  
+
+Vista previa del dashboard
+![image](https://github.com/user-attachments/assets/d561e8f9-52af-4711-a582-f94a53cdb71d)
